@@ -68,7 +68,7 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 unzip                                                  # extracting zip files
 vim                                                    # terminal text editor
-code                                                   # ide text editor
+#code                                                   # ide text editor
 nwg-displays                                           # monitor management utility
 
 # --------------------------------------------------- // Shell
@@ -76,8 +76,8 @@ eza|zsh                                                # file lister for zsh
 # oh-my-zsh-git|zsh                                    #  plugin manager for zsh (Optional) // Moved to pkg_extra.lst
 zsh-theme-powerlevel10k-git|zsh                        # theme for zsh
 pokego-bin|zsh                                        # display pokemon sprites in terminal (written GO)
-eza|fish                                               # file lister for fish
-starship|fish                                          # customizable shell prompt
+#eza|fish                                               # file lister for fish
+#starship|fish                                          # customizable shell prompt
 fastfetch                                              # system information fetch tool
 
 # --------------------------------------------------- // HyDE
